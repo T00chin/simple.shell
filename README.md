@@ -2,7 +2,7 @@
 
 # Brian Toochin & Jesse Muhia
 
-![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
+![alt text](https://blog.hubspot.com/hs-fs/hubfs/HubSpot-English-Flywheel-Jul-27-2020-04-17-18-68-PM-1.png?width=450&name=HubSpot-English-Flywheel-Jul-27-2020-04-17-18-68-PM-1.png)
 
 ### Description
 
